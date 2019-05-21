@@ -1,0 +1,13 @@
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\com\howtodoinjava\example\employee\model\Employee.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\io\swagger\configuration\JacksonConfiguration.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\io\swagger\configuration\HomeController.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\com\howtodoinjava\example\employee\api\ApiResponseMessage.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\io\swagger\Swagger2SpringBoot.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\com\howtodoinjava\example\employee\api\FindEmployeeDetailsApiController.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\com\howtodoinjava\example\employee\api\ApiOriginFilter.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\io\swagger\configuration\CustomInstantDeserializer.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\io\swagger\configuration\SwaggerDocumentationConfig.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\com\howtodoinjava\example\employee\api\FindEmployeeDetailsApi.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\com\howtodoinjava\example\employee\api\ApiException.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\com\howtodoinjava\example\employee\api\NotFoundException.java
+C:\Users\jorge\spring-swagger-codegen-employee\src\main\java\io\swagger\RFC3339DateFormat.java
